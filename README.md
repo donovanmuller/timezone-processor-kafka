@@ -1,6 +1,6 @@
 # Timezone Processor
 
-A demonstration application used in the Spring Cloud Data Flow Server for OpenShift reference guide.
+A demonstration application used in the Spring Cloud Data Flow Server for OpenShift [reference guide](https://donovanmuller.github.io/spring-cloud-dataflow-server-openshift/docs/1.1.0.RELEASE/reference/htmlsingle).
 
 ## Overview
 
